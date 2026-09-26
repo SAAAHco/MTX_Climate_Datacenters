@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Water and energy footprints of data centers in warm climates: model and analyses"
+repository-code: "https://github.com/SAAAHco/MTX_Climate_Datacenters"
+authors:
+  - family-names: "Sánchez"
+    given-names: "Raúl"
+  - family-names: "Ashkanani"
+    given-names: "Zainab"
+  - family-names: "Abdulrahman"
+    given-names: "Reem"
+  - family-names: "Mohtar"
+    given-names: "Rabi"
+preferred-citation:
+  type: article
+  title: "Water and energy footprints of data centers in warm climates: thermodynamic modeling of cooling modes and climatic variability"
+  authors:
+    - family-names: "Sánchez"
+      given-names: "Raúl"
+    - family-names: "Ashkanani"
+      given-names: "Zainab"
+    - family-names: "Abdulrahman"
+      given-names: "Reem"
+    - family-names: "Mohtar"
+      given-names: "Rabi"
+  journal: "Energy Nexus"

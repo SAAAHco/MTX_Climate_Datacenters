@@ -1,0 +1,20 @@
+# Input weather data (not redistributed; see data/README.md)
+/data/*
+!/data/README.md
+
+# Intermediate and output files written by the scripts in the repository folder
+# (the reference results in results_article/ are tracked)
+*.pkl
+*.npy
+/analysis_out.json
+/sens_out.json
+/sens_out_partial.json
+/gsa_out.json
+/gsa_base.json
+/extras_out.json
+/figs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
