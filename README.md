@@ -100,3 +100,6 @@ The folder `results_article/` holds the result files used in the article. A comp
 | `run_all.py` | Runs all the steps in order |
 | `results_article/` | Result files of the article |
 | `numbering.json` | Equation, figure, and table numbers of the article |
+
+## Contact Information
+For questions email: Ashkanani@tamu.edu, Ashkananai@saaah.co
